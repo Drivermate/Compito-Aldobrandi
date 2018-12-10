@@ -13,5 +13,7 @@ int main()
 	for(int i = 0; i < 10; i++){
 		cout << i << endl;
 	}
+
+	cout << "Io sono un cout che generera' un conflitto" << endl;
 }
 
