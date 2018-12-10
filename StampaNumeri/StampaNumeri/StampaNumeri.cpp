@@ -14,7 +14,13 @@ int main()
 		cout << i << endl;
 	}
 
+<<<<<<< HEAD
 	cout << "Io sono un cout che generera' un conflitto" << endl;
 	cout << "Andro' a collidere con il branch master" << endl;
+=======
+	cout << "Ciao! Sono un commento" << endl;
+	cout << "Sono ignaro del conflitto che generero'" << endl;
+
+>>>>>>> FIX_BUG
 }
 
