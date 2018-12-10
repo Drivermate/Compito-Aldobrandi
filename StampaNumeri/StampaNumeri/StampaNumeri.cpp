@@ -15,5 +15,6 @@ int main()
 	}
 
 	cout << "Io sono un cout che generera' un conflitto" << endl;
+	cout << "Andro' a collidere con il branch master" << endl;
 }
 
