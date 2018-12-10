@@ -15,5 +15,7 @@ int main()
 	}
 
 	cout << "Ciao! Sono un commento" << endl;
+	cout << "Sono ignaro del conflitto che generero'" << endl;
+
 }
 
